@@ -6,4 +6,3 @@ app.get('/', (req, res) => res.send('Hello from Azure!'));
  
 app.listen(port, () => console.log(`Running on port ${port}`));
  
-
